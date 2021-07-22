@@ -31,3 +31,7 @@ input:active{
     border-radius: 0;
 }
 
+#type{
+    border:solid;
+    height: 40px;
+}
